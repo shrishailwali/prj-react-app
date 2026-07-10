@@ -26,7 +26,7 @@ function Login() {
 
         <div className="logo">�</div>
 
-        <h1>DocUp</h1>
+        <h1></h1>
 
         <p className="subtitle">
           Document Upload Portal

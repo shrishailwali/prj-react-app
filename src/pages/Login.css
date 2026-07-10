@@ -6,7 +6,7 @@
 }
 
 body{
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg,  #8c9add 0%, #d0abf4 100%);
 }
 
 .login-page{
@@ -16,7 +16,7 @@ body{
     justify-content: center;
     align-items: center;
     padding: 20px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #8c9add 0%, #d0abf4 100%);
     min-height: 100vh;
 }
 
